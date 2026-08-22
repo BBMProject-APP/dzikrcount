@@ -1,0 +1,26 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Android/Gradle
+.gradle/
+local.properties
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aar
+*.jks
+*.keystore
+app/build/

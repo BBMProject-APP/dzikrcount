@@ -1,0 +1,8 @@
+{
+  "name": "Dzikr & Salawat Count",
+  "description": "An interactive workspace and simulator for 'Dzikr & Salawat Count' - an automated audio-looping counter for Dhikr and Sholawat, with production-ready Kotlin Jetpack Media3 and Compose code templates.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
